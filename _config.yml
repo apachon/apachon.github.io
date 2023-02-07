@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: SAPACHON - HaZiendo
-description: Blog de prueba
-github_username: apachon
+title:SAPACHON - HaZiendo
+description:Blog de prueba
+github_username:apachon
 
 # Email and twitter are optional:
-email: apachon@gmail.com
-twitter_username: @apachons
+email:apachon@gmail.com
+twitter_username:apachons
 
 # Set this to true to get LaTeX math equation support
 use_math:
